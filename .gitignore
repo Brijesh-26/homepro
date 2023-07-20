@@ -1,0 +1,4 @@
+venv/
+homepro/__pycache__/
+homeapp/__pycache__/
+homeapp/migrations/__pycache__/
